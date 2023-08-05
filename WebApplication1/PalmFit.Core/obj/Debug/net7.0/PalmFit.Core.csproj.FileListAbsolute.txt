@@ -1,0 +1,5 @@
+C:\Users\Decagon\OneDrive\Desktop\Project\palmfit\WebApplication1\PalmFit.Core\obj\Debug\net7.0\PalmFit.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive\Desktop\Project\palmfit\WebApplication1\PalmFit.Core\obj\Debug\net7.0\PalmFit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\OneDrive\Desktop\Project\palmfit\WebApplication1\PalmFit.Core\obj\Debug\net7.0\PalmFit.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\OneDrive\Desktop\Project\palmfit\WebApplication1\PalmFit.Core\obj\Debug\net7.0\PalmFit.Core.AssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Desktop\Project\palmfit\WebApplication1\PalmFit.Core\obj\Debug\net7.0\PalmFit.Core.csproj.CoreCompileInputs.cache
